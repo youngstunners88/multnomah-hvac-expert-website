@@ -1,0 +1,19 @@
+{
+  "businessName": "Multnomah Hvac Expert",
+  "category": "specialty",
+  "brandColors": {
+    "primary": "#C0392B",
+    "secondary": "#CD6155",
+    "accent": "#F1C40F",
+    "dark": "#922B21",
+    "light": "#FDEDEC"
+  },
+  "tagline": "Expert Service",
+  "services": [
+    "Expert Consultation",
+    "Professional Service",
+    "Quality Workmanship",
+    "Reliable Support",
+    "Custom Solutions"
+  ]
+}
